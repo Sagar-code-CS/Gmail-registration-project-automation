@@ -1,0 +1,11 @@
+GmailMockRegistration/
+├── data/
+│   └── TestData.xlsx
+├── pages/
+│   └── RegistrationPage.java
+├── tests/
+│   └── RegistrationTest.java
+├── utils/
+│   └── ExcelUtil.java
+├── pom.xml
+└── README.md
